@@ -1,0 +1,15 @@
+C:\Users\trobbins\Desktop\cppAndCSTesting\grandCS\grng\bin\Debug\net6.0\grng.exe
+C:\Users\trobbins\Desktop\cppAndCSTesting\grandCS\grng\bin\Debug\net6.0\grng.deps.json
+C:\Users\trobbins\Desktop\cppAndCSTesting\grandCS\grng\bin\Debug\net6.0\grng.runtimeconfig.json
+C:\Users\trobbins\Desktop\cppAndCSTesting\grandCS\grng\bin\Debug\net6.0\grng.dll
+C:\Users\trobbins\Desktop\cppAndCSTesting\grandCS\grng\bin\Debug\net6.0\grng.pdb
+C:\Users\trobbins\Desktop\cppAndCSTesting\grandCS\grng\obj\Debug\net6.0\grng.csproj.AssemblyReference.cache
+C:\Users\trobbins\Desktop\cppAndCSTesting\grandCS\grng\obj\Debug\net6.0\grng.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trobbins\Desktop\cppAndCSTesting\grandCS\grng\obj\Debug\net6.0\grng.AssemblyInfoInputs.cache
+C:\Users\trobbins\Desktop\cppAndCSTesting\grandCS\grng\obj\Debug\net6.0\grng.AssemblyInfo.cs
+C:\Users\trobbins\Desktop\cppAndCSTesting\grandCS\grng\obj\Debug\net6.0\grng.csproj.CoreCompileInputs.cache
+C:\Users\trobbins\Desktop\cppAndCSTesting\grandCS\grng\obj\Debug\net6.0\grng.dll
+C:\Users\trobbins\Desktop\cppAndCSTesting\grandCS\grng\obj\Debug\net6.0\refint\grng.dll
+C:\Users\trobbins\Desktop\cppAndCSTesting\grandCS\grng\obj\Debug\net6.0\grng.pdb
+C:\Users\trobbins\Desktop\cppAndCSTesting\grandCS\grng\obj\Debug\net6.0\grng.genruntimeconfig.cache
+C:\Users\trobbins\Desktop\cppAndCSTesting\grandCS\grng\obj\Debug\net6.0\ref\grng.dll
