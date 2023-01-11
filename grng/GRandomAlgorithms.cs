@@ -8,8 +8,7 @@ using System.Collections.Generic;
     /// <summary>
     /// Class for random algorithms
     /// </summary>
-    public static class GRandomAlgorithms 
-    {
+    public static class GRandomAlgorithms {
 
 
 #region XORshift32

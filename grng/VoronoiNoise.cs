@@ -7,23 +7,22 @@ public class VoronoiNoise : Noise_t
 
 	public VoronoiNoise() : base()
 	{
-        // base();
+        this.displacement = 1.0f;
 	}
 
     public VoronoiNoise(int seed, GRNG.AlgorithmChoices algo) : base(seed,algo)
 	{
-        // base();
+        this.displacement = 1.0f;
 	}
 
     public VoronoiNoise(GRNG.AlgorithmChoices algo) : base(algo)
 	{
-        // base();
+        this.displacement = 1.0f;
 	}
 
 	public VoronoiNoise(int seed, float displacement = 1.0f) : base(seed)
     {
         this.seed = seed;
-        // base(seed);
         this.displacement = displacement;
     }
 

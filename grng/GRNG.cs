@@ -15,8 +15,7 @@ public class GRNG {
     /// <summary>
     /// Available algorithms to create the psuedo random values
     /// </summary>
-    public enum AlgorithmChoices 
-    {
+    public enum AlgorithmChoices {
         AdaptedLehmer32,
         Lehmer64,
         Xorshift32,
@@ -25,7 +24,6 @@ public class GRNG {
         Wyhash,
         Reverse17,
         Reverse23,
-
     }
 
     public AlgorithmChoices _selected_algo{get; protected set;}
@@ -1492,19 +1490,6 @@ public class GRNG {
     public float Voronoi(int x, int y, float frequency, bool useDistance, float displacement) => (float)(Voronoi((double)x, (double)y, (double)frequency, useDistance, (double)displacement));    
     public float Voronoi(float x, float frequency, bool useDistance, float displacement) => (float)(Voronoi((double)x, (double)frequency, useDistance, (double)displacement));
     public float Voronoi(int x, float frequency, bool useDistance, float displacement) => (float)(Voronoi((double)x, (double)frequency, useDistance, (double)displacement));
-
-
-
-
-
-
-
-
-
-
-
-
-
 } //End class
 
 
